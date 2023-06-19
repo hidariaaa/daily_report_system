@@ -1,4 +1,4 @@
-package models.validators;
+package models.varidators;
 
 import java.util.ArrayList;
 import java.util.List;
