@@ -9,7 +9,7 @@ import actions.views.ReportConverter;
 import actions.views.ReportView;
 import constants.JpaConst;
 import models.Report;
-import models.varidators.ReportValidator;
+import models.validators.ReportValidator;
 
 /**
  * 日報テーブルの操作に関わる処理を行うクラス
